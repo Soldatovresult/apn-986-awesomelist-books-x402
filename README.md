@@ -174,6 +174,7 @@ This repository exists to document, track, and make sense of that shift.
 
 ## 📚 Books
 - [When AI Shops: Agentic commerce and the revolution in how we buy and sell](https://www.amazon.in/When-AI-Shops-commerce-revolution-ebook/dp/B0G3T4K3VW) by Geoff Gibbins
+- [x402 — The Agent Economy: Building and Selling Services Machines Will Pay For](https://synthexforge.com/ebook) by Facilitator Press (an imprint of Synthex Forge) — A 121-page practitioner's field report on building and selling the x402 services that AI agents discover, pay for, and consume. 12 chapters, 19 runnable code blocks, written from a live production catalogue of 34 USDC-settling endpoints on Base. Covers the 402 flow, EIP-3009 settlement, machine-buyer pricing measured across a ~2,900-listing market, and the discovery problem. [Free sample PDF, no signup](https://synthexforge.com/sample).
 
 ## 💻 Notable Github Projects
 - [github.com/vercel/acp-handler](https://github.com/vercel/acp-handler)
